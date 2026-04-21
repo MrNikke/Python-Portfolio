@@ -1,2 +1,2 @@
 Here, you'll find the source file downloaded from the Finnish Meteorological Institute, along with the project's code.
-The purpose of this project is to predict the next day's temperature using historical data from various meteorological variables.
+The purpose of this project is to use Machine Learning to predict the next day's temperature using historical data from various meteorological variables.
